@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rosanarezende/Mango_4Dev.React/issues"
   },
-  "homepage": "https://github.com/rosanarezende/Mango_4Dev.React#readme"
+  "homepage": "https://github.com/rosanarezende/Mango_4Dev.React#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
