@@ -4,7 +4,7 @@
   "description": "[![alt text](https://user-images.githubusercontent.com/45580434/88440267-e0bd6400-cde3-11ea-9f94-bf6bca7795c3.png \"Link para o treinamento\")](https://www.udemy.com/course/react-com-mango/?referralCode=552F88858EAE76346C8B)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
